@@ -13,5 +13,5 @@ function write () {
   for (count = 0; count < number; count++) { // sets the loop to run as long as count is less than the number
     answer = answer + 'you are wierd '
   }
-  document.getElementById('text3').innerHTML = answer  // puts the answer into a paragraph
+  document.getElementById('text3').innerHTML = answer// puts the answer into a paragraph
 }
